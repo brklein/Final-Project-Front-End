@@ -1,6 +1,6 @@
 let currentImgIndex = 0
 
-const images = ['images/Dov.png', 'images/DockMaster.jpg', 'images/Findalis.jpg', 'images/Hound.jpg', 'images/Nia.jpg', 'images/Cal-Surgery.jpg', 'images/Eyepatch-Zepher.JPG', 'images/Hive.JPG', 'images/Nahara.JPG']
+const images = ['images/Dov.png', '../images/DockMaster.jpg', 'images/Findalis.jpg', 'images/Hound.jpg', 'images/Nia.jpg', '../images/Cal-Surgery.jpg', '../images/Eyepatch-Zepher.jpg', '../images/Hive.jpg', '../images/Nahara.jpg']
 
 const mainImage= document.getElementById('mainImage')
 
